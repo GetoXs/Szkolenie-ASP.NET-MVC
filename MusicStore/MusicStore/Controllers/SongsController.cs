@@ -56,6 +56,16 @@ namespace MusicStore.Controllers
 			return File(song.Url, "audio/mpeg");
 		}
 
+		public ActionResult RateIt(int id, byte value)
+		{
+			var song = Songs.SingleOrDefault(s => s.Id == id);
+			if(song != null)
+				song.Rate = value;
+
+			return new HttpStatusCodeResult(System.Net.HttpStatusCode.OK);
+
+		}
+
         // GET: Songs/Details/5
         public ActionResult Details(int id)
         {
