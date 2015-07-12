@@ -1,7 +1,7 @@
 # Szkolenie ASP.NET-MVC - Praktycznie
 
-Materia³y tworzone na potrzebê realizacji szkolenia w LGBSie podczas dni praktykantów.
+MateriaÅ‚y tworzone na potrzebÄ™ realizacji szkolenia w LGBSie podczas dni praktykantÃ³w.
 
 ----------
-## Wykorzystanie materia³ów
-W przypadku potrzeby wykorzystania materia³ów ze szkolenia, proszê jedynie o uprzedni kontakt ze mn¹.
+## Wykorzystanie materiaÅ‚Ã³w
+W przypadku potrzeby wykorzystania materiaÅ‚Ã³w ze szkolenia, proszÄ™ jedynie o uprzedni kontakt.
